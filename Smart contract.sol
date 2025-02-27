@@ -219,9 +219,7 @@ contract Vote {
 
 
 
-    //if votingStatus==NotStarted then do this
-    //else if votingStatus==Started then do that
-    //else bla bla
+ 
 }
 
 
